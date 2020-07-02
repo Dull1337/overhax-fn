@@ -5,7 +5,7 @@
 note : since people are stupid i decided to be more clear.
 
 the source was originally (or partially, this is disrupt's pasted version) made by dano20zombie, the same person who made FortUpdater.
-he sold the source to disrupt1337 and now he thinks he's a dev
+he sold the source to disrupt1337 and now he thinks he's a dev, it isn't actually oracle + maven, i just first reffered to it as oracle + maven because that's what it seemed to be at first.
 
 
 people wouldn't stop pasting it so here we go (specifically the retard zerax/virtualization/furiosdestruct/astro the 12 year old)
